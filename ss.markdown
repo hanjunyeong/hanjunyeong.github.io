@@ -5,14 +5,15 @@ permalink: /ss/
 ---
 
 # Course
-Chungbuk National University, (School of Computer Science) [https://software.cbnu.ac.kr],
+Chungbuk National University, [School of Computer Science](https://software.cbnu.ac.kr)
+
 - 2024-Fall & 2025-Fall
 
 - Introduction to Computer System (1-2)
 - Computer Architecture (2-1)
-**System Software** (aka. System Programming) (2-2)
+- **System Software** (aka. System Programming) (2-2)
 
-**TextBook**
+## TextBook 
 - Computer Systems: A Programmer's Perspective
 
 ## Prerequire 
